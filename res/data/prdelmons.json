@@ -1,0 +1,322 @@
+{
+  "prdelmons": [
+    {
+      "name": "Prdelmander",
+      "src": "./res/img/char2.png",
+      "hp": 500,
+      "attacks": [
+        {
+          "name": "Ohnivá řiť",
+          "dmg": 120,
+          "use": 2
+        },
+        {
+          "name": "Škrábnutí",
+          "dmg": 60,
+          "use": 60
+        },
+        {
+          "name": "Plesk ocasem",
+          "dmg": 70,
+          "use": 5
+        },
+        {
+          "name": "Pyroflatulence",
+          "dmg": 200,
+          "use": 1
+        }
+      ]
+    },
+    {
+      "name": "Prdchu",
+      "src": "./res/img/pik2.png",
+      "hp": 300,
+      "attacks": [
+        {
+          "name": "Kulový prd",
+          "dmg": 300,
+          "use": 1
+        },
+        {
+          "name": "Škrábnutí",
+          "dmg": 60,
+          "use": 60
+        },
+        {
+          "name": "Nával roztomilosti",
+          "dmg": 10,
+          "use": 1
+        },
+        {
+          "name": "Kondík",
+          "dmg": 162,
+          "use": 5
+        }
+      ]
+    },
+    {
+      "name": "Squirdel",
+      "src": "./res/img/squirt2.png",
+      "hp": 450,
+      "attacks": [
+        {
+          "name": "Řidká stolice",
+          "dmg": 180,
+          "use": 1
+        },
+        {
+          "name": "Škrábnutí",
+          "dmg": 60,
+          "use": 60
+        },
+        {
+          "name": "Krunýřová smršť",
+          "dmg": 70,
+          "use": 10
+        },
+        {
+          "name": "Čvachtavý prd",
+          "dmg": 180,
+          "use": 1
+        }
+      ]
+    },
+    {
+      "name": "Prdelosaurus",
+      "src": "./res/img/bulb2.png",
+      "hp": 550,
+      "attacks": [
+        {
+          "name": "Butanový smrďák",
+          "dmg": 150,
+          "use": 5
+        },
+        {
+          "name": "Škrábnutí",
+          "dmg": 60,
+          "use": 60
+        },
+        {
+          "name": "Bičíkový útok",
+          "dmg": 68,
+          "use": 10
+        },
+        {
+          "name": "Volání přírody",
+          "dmg": 220,
+          "use": 1
+        }
+      ]
+    }
+  ],
+
+  "enemyPrdelmons": [
+    {
+      "name": "Delbone",
+      "src": "./res/img/cubone.png",
+      "hp": 500,
+      "attacks": [
+        {
+          "name": "Kubicný náser",
+          "dmg": 150
+        },
+        {
+          "name": "Škrábnutí",
+          "dmg": 60
+        },
+        {
+          "name": "Bonk kostí",
+          "dmg": 80
+        },
+        {
+          "name": "hod kostí",
+          "dmg": 100
+        }
+      ]
+    },
+    {
+      "name": "Prdchamp",
+      "src": "./res/img/machamp.png",
+      "hp": 200,
+      "attacks": [
+        {
+          "name": "Prdelní otvírák",
+          "dmg": 320
+        },
+        {
+          "name": "Škrábnutí",
+          "dmg": 60
+        },
+        {
+          "name": "Ukazování opasku",
+          "dmg": 0
+        },
+        {
+          "name": "čtyřnásobná penetrace",
+          "dmg": 264
+        }
+      ]
+    },
+    {
+      "name": "Meowdel",
+      "src": "./res/img/meow.png",
+      "hp": 350,
+      "attacks": [
+        {
+          "name": "Egyptský švih",
+          "dmg": 180
+        },
+        {
+          "name": "Škrábnutí",
+          "dmg": 60
+        },
+        {
+          "name": "Pokus o útěk",
+          "dmg": 0
+        },
+        {
+          "name": "Sapání",
+          "dmg": 210
+        }
+      ]
+    },
+    {
+      "name": "Geyprd",
+      "src": "./res/img/pidgey.png",
+      "hp": 150,
+      "attacks": [
+        {
+          "name": "Bombardace",
+          "dmg": 300
+        },
+        {
+          "name": "Škrábnutí",
+          "dmg": 60
+        },
+        {
+          "name": "Ostrý vzlet",
+          "dmg": 75
+        },
+        {
+          "name": "Pářát smrti",
+          "dmg": 168
+        }
+      ]
+    },
+    {
+      "name": "Vaprdelon",
+      "src": "./res/img/prdelporeon.png",
+      "hp": 280,
+      "attacks": [
+        {
+          "name": "Furry sex",
+          "dmg": 999
+        },
+        {
+          "name": "Škrábnutí",
+          "dmg": 60
+        },
+        {
+          "name": "Sundání plavek",
+          "dmg": 999
+        },
+        {
+          "name": "Čvachtavý prd",
+          "dmg": 180
+        }
+      ]
+    },
+    {
+      "name": "Prdellel",
+      "src": "./res/img/rattata.png",
+      "hp": 500,
+      "attacks": [
+        {
+          "name": "Sýrový mlsoun",
+          "dmg": 160
+        },
+        {
+          "name": "Škrábnutí",
+          "dmg": 60
+        },
+        {
+          "name": "Plesk ocasem",
+          "dmg": 80
+        },
+        {
+          "name": "Pavel je krysa",
+          "dmg": 9999999999
+        }
+      ]
+    },
+    {
+      "name": "Kornel",
+      "src": "./res/img/snorlax.png",
+      "hp": 500,
+      "attacks": [
+        {
+          "name": "Prd chlupatého řidiče náklaďáku",
+          "dmg": 300
+        },
+        {
+          "name": "Škrábnutí",
+          "dmg": 60
+        },
+        {
+          "name": "Zavalení",
+          "dmg": 80
+        },
+        {
+          "name": "Diabetický šok",
+          "dmg": 160
+        }
+      ]
+    },
+    {
+      "name": "TotoPosrarDile",
+      "src": "./res/img/totodile.png",
+      "hp": 500,
+      "attacks": [
+        {
+          "name": "Čvachtavý prd",
+          "dmg": 155
+        },
+        {
+          "name": "Škrábnutí",
+          "dmg": 60
+        },
+        {
+          "name": "Kousnutí",
+          "dmg": 80
+        },
+        {
+          "name": "Tekoucí smrad",
+          "dmg": 201
+        }
+      ]
+    },
+    {
+      "name": "?????????",
+      "src": "./res/img/legenda.png",
+      "hp": 1000,
+      "attacks": [
+        {
+          "name": "Prd díky bohu že jsem to stihl na záchod",
+          "dmg": 5
+        },
+        {
+          "name": "Standardní každodenní prd",
+          "dmg": 2
+        },
+        {
+          "name": "Prd chlupatého řidiče náklaďáku",
+          "dmg": 10
+        },
+        {
+          "name": "Prd Královský Rozparovač",
+          "dmg": 50
+        }
+      ]
+    }
+  ]
+}
